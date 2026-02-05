@@ -1,0 +1,54 @@
+{
+  "profile": {
+    "name": "Shoaib Sayed",
+    "title": "Data Science | Machine Learning",
+    "intro": "Data science enthusiast with hands-on experience in machine learning, computer vision, and real-world data-driven problem solving.",
+    "emails": ["sayedshoeb65@gmail.com"],
+    "phone": "+91 7385746998",
+    "linkedin": "https://www.linkedin.com/in/shoaib-sayyed-5b0575273",
+    "github": "https://github.com/shob-by1"
+  },
+
+  "skills": [
+    "Python, SQL",
+    "Pandas, NumPy, Matplotlib, Seaborn",
+    "Scikit-learn, XGBoost",
+    "TensorFlow, CNNs",
+    "Computer Vision (OpenCV)",
+    "Git, GitHub, Jupyter, Google Colab"
+  ],
+
+  "projects": [
+    {
+      "name": "Crop Disease Detection",
+      "domain": "Computer Vision",
+      "description": "Built a CNN-based crop disease detection system using YOLOv8. Applied preprocessing, augmentation, and model tuning to improve accuracy.",
+      "github": "https://github.com/shob-by1/leaf-disease-detection",
+      "status": "Completed"
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Data Science Intern",
+      "organization": "AIGenius LLP",
+      "duration": "2025 - Present",
+      "details": "Developing and optimizing machine learning models for predictive analytics and business insights."
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor’s Degree (Engineering)",
+      "institution": "Your University Name",
+      "year": "2021 – 2025"
+    }
+  ],
+
+  "research": [
+    {
+      "title": "—",
+      "note": "No publications yet. Actively preparing research-oriented projects."
+    }
+  ]
+}
